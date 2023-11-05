@@ -24,8 +24,11 @@ By combining advanced computer vision, real-time data analysis, and audible warn
 6. pip install pygame (to install pygame)
 
 7. https://drive.google.com/file/d/1KsWTKuMD6S6H0zvdB8qSC6I_KU8aD_wo/view download this video
-8. paste the video in the same directory 
-9. Run main.py file to start the project
-10. To open car door Press 1 
-11. If any object (bike/car/human) crosses the predicted threshold the buzzer will start beeping.  
+8. https://pixabay.com/sound-effects/search/buzzer/ download the "buzzer2" by Pixabay 
+9. paste the video and buzzer2 in the same directory
+10. Rename buzzer2 as Alarm.mp3
+11. paste the video in the same directory 
+12. Run main.py file to start the project
+13. To open car door Press 1 
+14. If any object (bike/car/human) crosses the predicted threshold the buzzer will start beeping.  
     
